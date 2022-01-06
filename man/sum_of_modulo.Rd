@@ -2,7 +2,7 @@
 % Please edit documentation in R/sum_of_modulo.R
 \name{sum_of_modulo}
 \alias{sum_of_modulo}
-\title{Sum of a vectorized modulo function}
+\title{Sum of the modulo of a vector}
 \usage{
 sum_of_modulo(x, modulus)
 }
@@ -12,5 +12,5 @@ sum_of_modulo(x, modulus)
 \item{modulus}{Modulus as a 1L numeric vector.}
 }
 \description{
-Sum of a vectorized modulo function
+Calculate the sum of a modulo of a vector.
 }

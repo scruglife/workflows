@@ -1,4 +1,6 @@
-#' Sum of a vectorized modulo function
+#' Sum of the modulo of a vector
+#' 
+#' Calculate the sum of a modulo of a vector.
 #'
 #' @param x Numeric vector
 #' @param modulus Modulus as a 1L numeric vector.
