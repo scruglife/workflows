@@ -1,3 +1,3 @@
 # README
 
-Continuous workflow demonstration.
+Demonstration of development workflows for continuous integration and continuous deployment.
