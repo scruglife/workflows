@@ -1,5 +1,5 @@
 #' Sum of the modulo of a vector
-#' 
+#'
 #' Calculate the sum of a modulo of a vector.
 #'
 #' @param x Numeric vector
@@ -9,5 +9,10 @@
 
 sum_of_modulo <- function(x, modulus) {
   val <- sum(x %% modulus)
+  return(val)
+}
+
+sum_of_mudulo2 <- function(x, modulus, c) {
+  val <- sum(x %% modulus) + c
   return(val)
 }
